@@ -19,6 +19,6 @@ using namespace std;
 // Stub for main
 int main(){
    /* --STATEMENTS-- */
-	cout << "Hello World";
+	cout << "Helo World and Hi UCLA";
    return 0;
 }
