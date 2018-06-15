@@ -65,6 +65,7 @@ class Hand {
 
       // You decide what functions you'll need...
       int getHand();
+      int changeHands();
    private:
       // You decide what fields you'll need...
 };
@@ -78,6 +79,7 @@ class Player {
 
       // You decide what functions you'll need...
       int getPlayer();
+      intr changePlayer();
 
    private:
       int money;
