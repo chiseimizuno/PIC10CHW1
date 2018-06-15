@@ -19,6 +19,8 @@ const int x = 5;
 // Stub for main
 int main(){
    /* --STATEMENTS-- */
-	cout << "Helo World and Hi UCLA";
+	Card c();
+	Hand h();
+	Player p* = new Player();
    return 0;
 }
