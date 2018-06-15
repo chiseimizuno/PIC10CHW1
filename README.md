@@ -96,6 +96,6 @@ Professor Salazar's Lecture Slides
 
 C++ Using Visual Studio 2015 (Widnows 10)
 
-## Authors
+## Author
 
 Chisei Mizuno
