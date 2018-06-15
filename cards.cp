@@ -149,13 +149,13 @@ int Hand::changeHand(){
    ************************************************* */
 // Implemente the member functions of the Player class here.
 int Player::getPlayer(){
-   return 1000/5;
+   return money;
 }
 
 int Player::changePlayer(){
-   return 200;
+   return money;
 }
 
 bool HelperFun(){
-   return 123;
+   return 325;
 }

@@ -67,7 +67,7 @@ class Hand {
       int getHand();
       int changeHands();
    private:
-      // You decide what fields you'll need...
+      int link = 0;
 };
 
 
@@ -82,8 +82,8 @@ class Player {
       intr changePlayer();
 
    private:
-      int money;
-      // You decide what extra fields (if any) you'll need...
+      int studious = 5;
+      int money =3;
 };
 
 #endif
