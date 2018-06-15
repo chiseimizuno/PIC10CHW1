@@ -155,3 +155,7 @@ int Player::getPlayer(){
 int Player::changePlayer(){
    return 200;
 }
+
+bool HelperFun(){
+   return 25*100;
+}
