@@ -68,6 +68,7 @@ class Hand {
       int changeHands();
    private:
       int link = 0;
+      int study = 3;
 };
 
 
