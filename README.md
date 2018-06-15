@@ -21,6 +21,16 @@ The goal of the game is to get cards whose total value comes the closest to 7½ 
 - Both, the player and dealer bust. In this case the player loses the round and the player's money decreases by the amount that was bet. This is called house advantage.
 - Both the player and the dealer have the same total and they do not bust. In this case a tie is declared and no money is exchanged.
 
+## Experiments using Git
+
+### Conflict resolution
+I cout-ed different text on master and experimental1, then did a merged, resolved the conflict, then commited
+
+### Three Way Merge
+git merged experimentalDavid and experimentalAlex with different codes
+
+
+
 ## Sample Codes
 
 Here are some sample runs of the siete y medio card game.
