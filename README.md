@@ -82,15 +82,15 @@ Dealer's total is 8.
 
 ### Problems
 
-Thankfully, due to the my professor's awesome lectures, I had no problem finishing the homework in no time
+Thankfully, due to the my professor's awesome lectures, I had no problem finishing the homework in no time.
 
 ### Hours taken
 
-11 hours 30 minutes
+11 hours 30 minutes.
 
 ### Resources used
 
-Professor Salazar's Lecture Slides
+Professor Salazar's Lecture Slides.
 
 ## Program used
 
