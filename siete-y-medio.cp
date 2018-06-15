@@ -8,7 +8,7 @@
 using namespace std;
 
 // Global constants (if any)
-
+const int x = 5;
 
 // Non member functions declarations (if any)
 
