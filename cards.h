@@ -64,6 +64,8 @@ class Hand {
       Hand();
 
       // You decide what functions you'll need...
+      int getHand()
+         return 100;
 
    private:
       // You decide what fields you'll need...
@@ -77,6 +79,8 @@ class Player {
       Player(int m);
 
       // You decide what functions you'll need...
+      int getPlayer()
+         return 2000;
 
    private:
       int money;
