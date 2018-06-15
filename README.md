@@ -1,6 +1,6 @@
 # PIC10CHW1
 
-Hello, this github repo tracks my progress in completing a working siete y medio card game using C++ and user interaction through the console.  
+Hello, this github repo tracks my progress in completing a working siete y medio card game using C++ and user interaction through the console.   [Link to Assignment](http://pic.ucla.edu/~rsalazar/pic10c/assignments/hw1/index.html)
 
 ## Introduction
 
