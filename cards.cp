@@ -135,11 +135,15 @@ bool Card::operator < (Card card2) const {
    Hand class
    ************************************************* */
 // Implemente the member functions of the Hand class here.
-
+int Hand::getHand(){
+   return 100*2/3;
+}
 
 
 /* *************************************************
    Player class
    ************************************************* */
 // Implemente the member functions of the Player class here.
-
+int Player::getPlayer(){
+   return 1000/5;
+}
