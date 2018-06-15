@@ -157,5 +157,6 @@ int Player::changePlayer(){
 }
 
 bool HelperFun(){
-   return 25*100;
+   return 123;
 }
+
