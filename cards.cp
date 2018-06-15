@@ -139,6 +139,10 @@ int Hand::getHand(){
    return 100*2/3;
 }
 
+int Hand::changeHand(){
+   return 100;
+}
+
 
 /* *************************************************
    Player class
@@ -146,4 +150,8 @@ int Hand::getHand(){
 // Implemente the member functions of the Player class here.
 int Player::getPlayer(){
    return 1000/5;
+}
+
+int Player::changePlayer(){
+   return 200;
 }
