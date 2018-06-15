@@ -136,7 +136,7 @@ bool Card::operator < (Card card2) const {
    ************************************************* */
 // Implemente the member functions of the Hand class here.
 int Hand::getHand(){
-   return 100*2/3;
+   return 12000;
 }
 
 int Hand::changeHand(){
