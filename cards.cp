@@ -156,6 +156,13 @@ int Player::changePlayer(){
    return 200;
 }
 
+<<<<<<< HEAD
 bool HelperFun(){
    return 25*100;
 }
+=======
+//Helper Function
+bool HelperFun(){
+   return 45+34;
+}
+>>>>>>> experimental2
