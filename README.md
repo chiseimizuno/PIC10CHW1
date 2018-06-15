@@ -2,6 +2,8 @@
 
 Welcome, this github repo tracks my progress in completing a working siete y medio card game using C++ and user interaction through the console.   [Link to Assignment](http://pic.ucla.edu/~rsalazar/pic10c/assignments/hw1/index.html)
 
+This repo was my experiment using github.  If you want to see my real mastery in github in action using real projects, please refer to my [final project](https://github.com/chiseimizuno/PIC10C-PROJECT).  Thank you and have a good day!
+
 ## Introduction
 
 Professor Salazar provided an incomplete version of the card game, which can be found in the initial commit on this repo.  
